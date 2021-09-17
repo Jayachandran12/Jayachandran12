@@ -20,9 +20,9 @@
 
 <h3 align="center">Github statistics</h3><br>
 <div  align="center">
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayachandran12&show_icons=true&locale=en&layout=compact" alt="jayachandran12" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayachandran12&show_icons=true&locale=en&layout=compact" alt="jayachandran12" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayachandran12&show_icons=true&locale=en" alt="jayachandran12" /></p>
+<p >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayachandran12&show_icons=true&locale=en" alt="jayachandran12" /></p>
 </div>
 
 <hr>
