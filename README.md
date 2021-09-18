@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Jayachandran</h1>
-<h3 align="center">I'm 20 years old , Android-developer , web-developer interested in Machine Learning too</h3>
+<h1 align="center">Hey there! 👋</h1>
+<p align="center">I'm Jayachandran , 20 years old  Android-developer , web-developer interested in Machine Learning too</p>
 
 ![Profile views](https://gpvc.arturio.dev/jayachandran12)  
 
@@ -11,7 +10,6 @@
 - Java
 
 ---
-
 
 <h3 align="center">✨ Languages and Tools ✨</h3><br>
 <p align="center"> 
@@ -27,17 +25,21 @@
 </p>
 
 ---
-<h3 align="center">Github statistics</h3><br>
+
+<h3 align="center">✨ Github statistics ✨</h3><br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dracula&line_height=32" alt="jayachandran12">
+    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dracula&line_height=32" alt="jayachandran12">&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dracula"             alt="jayachandran12">
 </p>
-<hr>
 
-<h3 align="left">Connect with me:</h3>
+--- 
+
+<h3 align="center">✨ Connect with me ✨</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/jayachandran-s-966728215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/jayachandran-s-966728215" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/linkedin.com/in/jayachandran-s-966728215" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"        alt="linkedin.com/in/jayachandran-s-966728215" height="30" width="40" />
+    </a>
 </p>
 
 *************
