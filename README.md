@@ -22,15 +22,15 @@ Competitive Programmer , Tech  enthusiast .☁</p>
 
 <h3>📚 Languages and Tools :</h3><br>
 <p align="center"> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c-programming-569564.png" alt="c"         width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c.png"                    alt="cplusplus" width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/java.png"                 alt="java"      width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/python.png"               alt="python"    width="100" height="100"/>
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/dart_mono.png"            alt="dart"      width="100" height="100"/>
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/flutter.png"              alt="flutter"   width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/mysql.png"                alt="mysql"     width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/php.png"                  alt="php"       width="100" height="100"/> 
-    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/vscode.png"               alt="vscode"    width="100" height="100"/>
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c-programming-569564.png" alt="c"         width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c.png"                    alt="cplusplus" width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/java.png"                 alt="java"      width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/python.png"               alt="python"    width="80" height="80"/>
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/dart_mono.png"            alt="dart"      width="80" height="80"/>
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/flutter.png"              alt="flutter"   width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/mysql.png"                alt="mysql"     width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/php.png"                  alt="php"       width="80" height="80"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/vscode.png"               alt="vscode"    width="80" height="80"/>
     
 ![Skill](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Skill](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
