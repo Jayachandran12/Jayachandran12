@@ -43,8 +43,8 @@ Competitive Programmer , Tech  enthusiast .☁</p>
 <h3>✍ My work :</h3><br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dracula&line_height=32" alt="jayachandran12">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dracula"             alt="jayachandran12">
+    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dark&line_height=32" alt="jayachandran12">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dark"             alt="jayachandran12">
 </p>
 
 --- 
@@ -56,6 +56,9 @@ Competitive Programmer , Tech  enthusiast .☁</p>
     </a> &nbsp;
     <a href="mailto:chandranjaya919@gmail.com" target="blank">
         <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/icons/gmail.png" alt="c" height="30"/> 
+    </a> &nbsp;
+    <a href="https://www.instagram.com/__jayachandran/" target="blank">
+        <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/icons/insta.png" alt="c" height="30"/> 
     </a>
 </p>
 
