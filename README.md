@@ -1,9 +1,17 @@
+
 <h1 align="center">Hi 👋, I'm Jayachandran</h1>
 <h3 align="center">I'm 20 years old , Android-developer , web-developer interested in Machine Learning too</h3>
 
 ![Profile views](https://gpvc.arturio.dev/jayachandran12)  
 
 ---
+
+**Currently Learning :** 
+- Data structures and Algorithms
+- Java
+
+---
+
 
 <h3 align="center">✨ Languages and Tools ✨</h3><br>
 <p align="center"> 
