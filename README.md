@@ -6,15 +6,15 @@
 <hr>
 <h3 align="center">Languages and Tools</h3><br>
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="100" height="100"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="100" height="100"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="100" height="100"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="100" height="100"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="100" height="100"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="100" height="100"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c-programming-569564.png" alt="c"         width="100" height="100"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/c.png"                    alt="cplusplus" width="100" height="100"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/java.png"                 alt="java"      width="100" height="100"/> 
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/python.png"               alt="python"    width="100" height="100"/>
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/dart_mono.png"            alt="dart"      width="100" height="100"/>
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/flutter.png"              alt="flutter"   width="100" height="100"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="100" height="100"/> 
-    <img src="https://github.com/anshul-sharma-2002/anshul-sharma-2002/blob/master/assets/vscode.png" alt="vscode" width="100" height="100">
+    <img src="https://github.com/Jayachandran12/Jayachandran12/blob/master/assets/vscode.png"               alt="vscode"    width="100" height="100">
 </p>
 <hr>
 
