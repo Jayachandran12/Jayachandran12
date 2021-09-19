@@ -43,7 +43,7 @@ Competitive Programmer , Tech  enthusiast .☁</p>
 <h3>✍ My work :</h3><br>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dark&line_height=32" alt="jayachandran12">&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dark&line_height=35 alt="jayachandran12">&nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dark"             alt="jayachandran12">
 </p>
 
