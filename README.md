@@ -1,9 +1,9 @@
 
 <h1 align = "center">Hi, I'm Jayachandran! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
-<p align="center">I'm a 2nd year 🎓 student at <b>PTU(formerly PEC), Pondicherry</b>, pursuing my <b>Bachelors in Computer Science and Engineering.</b>
-I'm 20 years old <b>Android-developer , web-developer</b> interested in <b>Machine Learning</b> too .✨<br>
-Competitive Programmer , Tech  enthusiast .☁</p>
+<p align="center">I'm a 3rd year 🎓 student at <b>PTU(formerly PEC), Pondicherry</b>, pursuing my <b>Bachelors in Computer Science and Engineering.</b>
+I'm 20 years old <b>Android-developer and web-developer</b>✨<br>
+PROGRAMMER , TECH ENTHUSIAST.</p>
 <br>
 
 
@@ -12,11 +12,7 @@ Competitive Programmer , Tech  enthusiast .☁</p>
 
 **⚡ Favorite Editor    :**  Visual Studio Code
 
-**⚡ Currently Learning :** 
-- Data structures and Algorithms
-- Java
-
-**⚡ Fun Fact :** Love exploring new Tech 👩‍💻| Company with friends 😻
+**⚡ Fun Fact :** Love exploring new Tech 👩‍💻
 
 ---
 
