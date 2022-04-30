@@ -40,7 +40,7 @@ PROGRAMMER , TECH ENTHUSIAST.</p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=jayachandran12&hide=stars&show_icons=true&theme=dracula&line_height=35 alt="jayachandran12">&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dracula"             alt="jayachandran12">
+    <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayachandran12&count_private=true&theme=dracula"             alt="jayachandran12">-->
 </p>
 
 --- 
